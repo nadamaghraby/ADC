@@ -1,0 +1,7 @@
+"Core/Src/main.o"
+"Core/Src/syscalls.o"
+"Core/Src/system_stm32f4xx.o"
+"Drivers/src/ADC.o"
+"Drivers/src/LCD.o"
+"Drivers/src/gpio.o"
+"startup/startup_stm32f401xc.o"
